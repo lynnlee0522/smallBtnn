@@ -1,2 +1,2 @@
 # smallBtnn
-this is ademo
+this is a demo

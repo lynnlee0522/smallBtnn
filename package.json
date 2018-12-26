@@ -1,5 +1,5 @@
 {
-  "name": "smallbutton",
+  "name": "smallBtnn",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lynnlee0522/smallbutton.git"
+    "url": "git+https://github.com/lynnlee0522/smallBtnn.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lynnlee0522/smallbutton/issues"
+    "url": "https://github.com/lynnlee0522/smallBtnn/issues"
   },
-  "homepage": "https://github.com/lynnlee0522/smallbutton#readme",
+  "homepage": "https://github.com/lynnlee0522/smallBtnn#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
